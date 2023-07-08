@@ -1,3 +1,6 @@
+
+Built in React.js, A basic project to freshen up the react knowledge.
+
 to run the json server
 
 npx json-server --watch data/db.json --port 8000
